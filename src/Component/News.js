@@ -63,8 +63,8 @@ export default class News extends Component {
 
     render() {
         return (
-            <div className='container my-3 box' >
-                <center><h2>My News - Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h2></center>
+            <div className='container my-3 box ' >
+                <center><h1 style={{margin : '70px 0px'}}>My News - Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h1></center>
                 <div className='row'>
                     {
                         this.state.articals.map((element) => (
