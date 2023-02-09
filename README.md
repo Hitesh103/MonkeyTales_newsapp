@@ -1,5 +1,5 @@
-### MoneyTales News App
-MoneyTales is a daily updated news app that allows you to stay up-to-date on the latest business, finance, and economic news. The app is built using React.js, making it fast and user-friendly.
+### MonkeyTales News App
+MonkeyTales is a daily updated news app that allows you to stay up-to-date on the latest business, finance, and economic news. The app is built using React.js, making it fast and user-friendly.
 
 ## Features
 
@@ -9,8 +9,8 @@ MoneyTales is a daily updated news app that allows you to stay up-to-date on the
 
 • Login and logout functionality using React and React Router
 View the latest news from a variety of sources, updated daily
-## How to Use MoneyTales
-1. Clone the MoneyTales repository from GitHub or download the source code.
+## How to Use MonkeyTales
+1. Clone the MonkeyTales repository from GitHub or download the source code.
 ``` 
 git clone https://github.com/Hitesh103/MonkeyTales_newsapp.git
 ```
@@ -28,7 +28,7 @@ Browse the latest news articles by category.
 
 ## Technical Details
 
-MoneyTales is built with React.js for the front-end interface and JavaScript for the back-end logic. The app utilizes APIs to retrieve the latest news articles and display them in an organized and user-friendly manner.
+MonkeyTales is built with React.js for the front-end interface and JavaScript for the back-end logic. The app utilizes APIs to retrieve the latest news articles and display them in an organized and user-friendly manner.
 
 ## Technologies Used
 • React.js
@@ -45,4 +45,4 @@ MoneyTales is built with React.js for the front-end interface and JavaScript for
 
 ## Conclusion
 
-MoneyTales is a daily updated news app that allows you to stay informed on the latest business, finance, and economic news. With its user-friendly interface and robust technical architecture, MoneyTales is the perfect tool for anyone looking to stay up-to-date on the latest news in the world of finance and economics.
+MonkeyTales is a daily updated news app that allows you to stay informed on the latest business, finance, and economic news. With its user-friendly interface and robust technical architecture, MonkeyTales is the perfect tool for anyone looking to stay up-to-date on the latest news in the world of finance and economics.
