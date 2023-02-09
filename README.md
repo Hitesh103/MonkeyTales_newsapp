@@ -2,6 +2,9 @@
 MoneyTales is a daily updated news app that allows you to stay up-to-date on the latest business, finance, and economic news. The app is built using React.js, making it fast and user-friendly.
 
 ## Features
+
+• Daily updated news from a variety of sources using the NewsAPI
+
 • Browse news articles by category (sports, entertainment,business, finance, economics, etc.)
 
 • Login and logout functionality using React and React Router
@@ -35,6 +38,10 @@ MoneyTales is built with React.js for the front-end interface and JavaScript for
 • HTML
 
 • Bootstrap
+
+• CSS
+
+• NewsAPI
 
 ## Conclusion
 
