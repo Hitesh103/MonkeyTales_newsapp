@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/MonkeyTales_newsapp/static/js/main.e5041ee8.js",
+    "index.html": "/MonkeyTales_newsapp/index.html",
+    "main.e5041ee8.js.map": "/MonkeyTales_newsapp/static/js/main.e5041ee8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e5041ee8.js"
+  ]
+}
